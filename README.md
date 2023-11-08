@@ -8,6 +8,12 @@ I believe that the task has been successfully achieved.
 
 ## Examples of how the program works
 
+The **original** is displayed on the **left**, the **image drawn by the neural network** is displayed on the **right**.
+
+Information about the image size, neural network structure, activation function, permissible deviation, and operating time is displayed in the center.
+
+The program saves the image closest to the original, and provides functionality for displaying it.
+
 ### The program successfully copes with a small image.
 <img src="https://github.com/VladislavWaza/PerceptronRemembersPicture/assets/73028197/95005b26-f922-4c25-bead-976d1dc6e11e">
 
